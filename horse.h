@@ -1,5 +1,3 @@
-horse.h
-
 #pragma once
 
 #include <string>
