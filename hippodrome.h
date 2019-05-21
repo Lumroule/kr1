@@ -1,5 +1,3 @@
-hippodrome.h
-
 #pragma once
 
 #include "observer.h"
