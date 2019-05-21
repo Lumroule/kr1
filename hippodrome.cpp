@@ -1,5 +1,3 @@
-hippodrome.cpp
-
 #include "hippodrome.h"
 
 std::ostream& operator<<(std::ostream &os, const hippodrome &hp) {
