@@ -1,5 +1,3 @@
-function.cpp
-
 #include "function.h"
 
 bool match(const char *str, const char *pat) {
