@@ -1,5 +1,3 @@
-*Source.cpp*
-
 #include "hippodrome.h"
 
 #define _NUMBER_OF_GAMES_ 5
