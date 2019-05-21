@@ -1,5 +1,3 @@
-horse.cpp
-
 #include "horse.h"
 
 horse::horse() : year(0), numWins(0) {}
