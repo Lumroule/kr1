@@ -1,5 +1,3 @@
-function.h
-
 #pragma once
 
 #include <exception>
